@@ -1,2 +1,2 @@
-matn = "This main branch"
-print("Hi main")
+matn = "This Ikki branch"
+print("Hi ikki")
